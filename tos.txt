@@ -1,0 +1,70 @@
+# FNTD2dex — Terms of Service
+**Last Updated:** 2025-12-01
+
+## 1. Introduction
+Welcome to **FNTD2dex**, a Discord bot designed to provide an FNTD2-themed collectible experience similar to BallsDex.  
+By using this bot, you agree to these Terms of Service ("Terms").  
+If you do not agree, do not use FNTD2dex.
+
+## 2. Eligibility
+To use FNTD2dex, you must:
+- Have a valid Discord account.
+- Follow Discord’s Terms of Service and Community Guidelines.
+- Not attempt to harm, exploit, or misuse the bot.
+
+## 3. Bot Usage
+FNTD2dex includes commands such as:
+- `/collection`
+- `/set`
+- `/trade`
+- Developer-only `!commands`
+
+You agree NOT to:
+- Spam or abuse commands.
+- Attempt to overload or break the bot.
+- Use automation or self-bots.
+- Manipulate trades, exploit glitches, or modify stored data.
+
+Abuse may result in:
+- Temporary or permanent blacklist
+- Loss of access to features
+- Trade restrictions
+
+## 4. Data Usage
+The bot stores only the data required for functionality:
+- Discord User ID
+- Collection data
+- Trade information
+- Bot configuration preferences
+
+We do **not** store messages, tokens, passwords, or private Discord data.
+
+See our **Privacy Policy** for complete information.
+
+## 5. Availability
+FNTD2dex is provided *as-is*, with no uptime guarantee.  
+Features and data may change at any time.  
+We reserve the right to:
+- Reset data if necessary
+- Restrict certain users
+- Add or remove features
+
+## 6. Termination
+We may suspend or permanently block users who:
+- Violate these Terms
+- Attempt to exploit the bot
+- Break Discord’s rules
+
+## 7. Limitation of Liability
+FNTD2dex and its developers are not responsible for:
+- Data loss
+- Incorrect trades
+- Bugs or errors
+- Downtime
+- Any damages caused by using the bot
+
+You use the bot at your own risk.
+
+## 8. Changes to These Terms
+We may update these Terms at any time.  
+Continued use of the bot means you accept the revised Terms.
