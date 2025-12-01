@@ -1,0 +1,53 @@
+# FNTD2dex — Privacy Policy
+**Last Updated:** 2025-12-01
+
+## 1. Information We Collect
+FNTD2dex collects only the minimum information necessary to operate:
+
+### Data We Collect
+- Discord User ID  
+- Server ID (for settings)  
+- Your FNTD2 collection  
+- Trade activity  
+- Bot configuration settings  
+
+### Data We Do NOT Collect
+- Messages  
+- Passwords  
+- Discord tokens  
+- Emails  
+- IP addresses  
+- Personal information  
+
+We do not track you outside of Discord.
+
+## 2. How We Use Your Data
+Your data is used exclusively to:
+- Store and manage your in-bot collection
+- Process trades
+- Maintain your account state
+- Improve bot functionality
+
+We do **not**:
+- Sell your data  
+- Share data with third parties  
+- Use data for advertising or profiling  
+
+## 3. Data Storage & Security
+Data may be stored in:
+- Databases  
+- JSON files  
+- Cloud hosting (depending on deployment)
+
+We implement reasonable security measures, but no system is 100% secure.  
+Use of the bot is at your own risk.
+
+## 4. Data Removal Requests
+You may request deletion of your data at any time.  
+Contact the bot developer through Discord or the support server.
+
+Your data will be removed as soon as possible.
+
+## 5. Updates to This Privacy Policy
+We may update this Privacy Policy at any time.  
+Continued use of FNTD2dex means you agree to the updated policy.
