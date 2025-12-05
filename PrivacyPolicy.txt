@@ -1,53 +1,122 @@
-# FNTD2dex — Privacy Policy
-**Last Updated:** 2025-12-01
+# Privacy Policy for FNTD2dex Discord Bot
+**Last Updated:** DD/MM/2025
+
+This Privacy Policy explains how the **FNTD2dex** Discord bot (“the Bot”, “we”, “us”, “our”) collects, stores, and uses information when users interact with it.
+
+By using the Bot, you agree to the practices described below.
+
+---
 
 ## 1. Information We Collect
-FNTD2dex collects only the minimum information necessary to operate:
 
-### Data We Collect
-- Discord User ID  
-- Server ID (for settings)  
-- Your FNTD2 collection  
-- Trade activity  
-- Bot configuration settings  
+The Bot only collects the minimum information necessary for its features to function.
 
-### Data We Do NOT Collect
-- Messages  
-- Passwords  
-- Discord tokens  
-- Emails  
-- IP addresses  
-- Personal information  
+### 1.1 Discord User IDs
+We store user IDs to:
+- Track each user’s collection
+- Handle trades and guesses
+- Allow owner-only administrative actions
 
-We do not track you outside of Discord.
+### 1.2 Server & Channel IDs
+We store:
+- Server IDs for per-server settings  
+- Spawn channel IDs  
+- Cooldown timers and spawn timestamps  
 
-## 2. How We Use Your Data
-Your data is used exclusively to:
-- Store and manage your in-bot collection
-- Process trades
-- Maintain your account state
-- Improve bot functionality
+This allows the Bot to operate consistently across different servers.
 
-We do **not**:
-- Sell your data  
+### 1.3 Collection Data
+We store information about units that users catch, including:
+- Unit name  
+- Whether the unit is shiny  
+
+Stored in `collections.json`.
+
+### 1.4 Server Settings
+We store server-specific configuration such as:
+- Spawn channel  
+- Cooldown duration  
+- Time until next spawn  
+- Last spawn timestamps  
+
+Stored in `server_settings.json`.
+
+### 1.5 No Message Content Storage
+Although the Bot analyzes messages for spam-like patterns and spawn triggers,  
+**it does not store, log, or save message contents**.
+
+All message scanning is temporary and instantly discarded.
+
+---
+
+## 2. How We Use Collected Information
+
+Information is used solely for:
+- Spawning units
+- Tracking user collections
+- Handling trades
+- Maintaining per-server settings
+- Allowing owner-only administrative functions
+
+No collected data is used for advertising, analytics, or profiling.
+
+---
+
+## 3. How Data Is Stored
+
+We store data in local JSON files:
+- `collections.json`  
+- `server_settings.json`  
+- `dex.json` (unit definitions)
+
+No external databases or third-party storage services are used.
+
+---
+
+## 4. Data Sharing
+
+We **do not**:
+- Sell data  
 - Share data with third parties  
-- Use data for advertising or profiling  
+- Transfer data outside the environment the Bot runs on  
 
-## 3. Data Storage & Security
-Data may be stored in:
-- Databases  
-- JSON files  
-- Cloud hosting (depending on deployment)
+Only the **bot owner** has access to stored data.
 
-We implement reasonable security measures, but no system is 100% secure.  
-Use of the bot is at your own risk.
+---
 
-## 4. Data Removal Requests
-You may request deletion of your data at any time.  
-Contact the bot developer through Discord or the support server.
+## 5. Data Removal (OWNER ONLY)
 
-Your data will be removed as soon as possible.
+Users cannot remove their own data through automated means.
 
-## 5. Updates to This Privacy Policy
+All data deletion actions are **owner-only** and must be performed manually or via the following owner commands:
+
+- `/resetdata <user>` — Removes a specific user’s collection in the server  
+- `/globalresetdata` — Removes **all** stored collections globally  
+
+Users must contact the bot owner if they want their data removed.  
+The owner has full control over whether data is deleted.
+
+---
+
+## 6. Security Practices
+
+- The Bot stores only non-sensitive information  
+- No real names, emails, IP addresses, or message logs are collected  
+- Data is stored locally and not transferred externally  
+
+---
+
+## 7. Changes to This Privacy Policy
+
+We may update this Privacy Policy at any time.  
+The “Last Updated” date will always reflect the latest revision.
+
+---
+
+## 8. Contact
+
+To request data removal or ask questions, contact the Bot owner:  
+**Discord User ID: 1247264496288792667**
+
 We may update this Privacy Policy at any time.  
 Continued use of FNTD2dex means you agree to the updated policy.
