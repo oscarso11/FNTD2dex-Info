@@ -1,5 +1,5 @@
 # Privacy Policy for FNTD2dex Discord Bot
-**Last Updated:** DD/MM/2025
+**Last Updated:** 28/01/2025
 
 This Privacy Policy explains how the **FNTD2dex** Discord bot (“the Bot”, “we”, “us”, “our”) collects, stores, and uses information when users interact with it.
 
